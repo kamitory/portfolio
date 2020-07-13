@@ -3,7 +3,7 @@
 
 유니티 - 3D RPG게임  https://github.com/kamitory/Unity_RPG
 
-WinAPI - 2D 게임 모작
+WinAPI - 2D 게임 모작  https://github.com/kamitory/WinAPI_Binding_of_Isaac
 
 WinAPI - 맵툴 팀프로젝트  https://github.com/tkd14gus/kunygil_TalesOfPhantasia_imitationWork
 
